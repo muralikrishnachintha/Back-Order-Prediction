@@ -1,0 +1,1155 @@
+date,time,logs
+2020-06-04,14:26:13,Prediction Data has been loaded Successfully.
+2020-06-04,14:26:13,Prediction Data Validation has started.
+2020-06-04,14:26:13,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:26:13,Loading of prediction Data has Started.
+2020-06-04,14:26:13,Data has been loadded succesfully
+2020-06-04,14:26:13,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:26:13,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,14:26:13,Data Validation for columns has Stared.
+2020-06-04,14:26:13,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,14:26:13,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,14:26:13,Columns are not valid in the Training Data.
+2020-06-04,14:26:13,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,Null Values Check has started.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the Dataset has complete null values.
+2020-06-04,14:26:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:26:13,No column in the dataset has complete null values.
+2020-06-04,14:26:13,prediction data validation is complete.
+2020-06-04,14:26:13,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,14:30:04,Prediction Data has been loaded Successfully.
+2020-06-04,14:30:04,Prediction Data Validation has started.
+2020-06-04,14:30:04,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:30:04,Loading of prediction Data has Started.
+2020-06-04,14:30:04,Data has been loadded succesfully
+2020-06-04,14:30:04,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:30:04,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,14:30:05,Data Validation for columns has Stared.
+2020-06-04,14:30:05,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,14:30:05,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,14:30:05,Columns are not valid in the Training Data.
+2020-06-04,14:30:05,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,Null Values Check has started.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the Dataset has complete null values.
+2020-06-04,14:30:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:30:05,No column in the dataset has complete null values.
+2020-06-04,14:30:05,prediction data validation is complete.
+2020-06-04,14:30:05,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,14:32:47,Prediction Data has been loaded Successfully.
+2020-06-04,14:32:47,Prediction Data Validation has started.
+2020-06-04,14:32:47,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:32:47,Loading of prediction Data has Started.
+2020-06-04,14:32:47,Data has been loadded succesfully
+2020-06-04,14:32:47,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:32:47,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,14:32:47,Data Validation for columns has Stared.
+2020-06-04,14:32:47,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,14:32:47,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,14:32:47,Columns are not valid in the Training Data.
+2020-06-04,14:32:47,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,Null Values Check has started.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the Dataset has complete null values.
+2020-06-04,14:32:47,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:32:47,No column in the dataset has complete null values.
+2020-06-04,14:32:47,prediction data validation is complete.
+2020-06-04,14:32:47,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,14:34:48,Prediction Data has been loaded Successfully.
+2020-06-04,14:34:48,Prediction Data Validation has started.
+2020-06-04,14:34:48,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:34:48,Loading of prediction Data has Started.
+2020-06-04,14:34:48,Data has been loadded succesfully
+2020-06-04,14:34:48,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:34:48,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,14:34:48,Data Validation for columns has Stared.
+2020-06-04,14:34:48,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,14:34:48,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,14:34:48,Columns are not valid in the Training Data.
+2020-06-04,14:34:48,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,Null Values Check has started.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:48,No column in the Dataset has complete null values.
+2020-06-04,14:34:49,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:49,No column in the Dataset has complete null values.
+2020-06-04,14:34:49,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:49,No column in the Dataset has complete null values.
+2020-06-04,14:34:49,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:49,No column in the Dataset has complete null values.
+2020-06-04,14:34:49,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:49,No column in the Dataset has complete null values.
+2020-06-04,14:34:49,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:34:49,No column in the dataset has complete null values.
+2020-06-04,14:34:49,prediction data validation is complete.
+2020-06-04,14:34:49,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,14:35:54,Prediction Data has been loaded Successfully.
+2020-06-04,14:35:54,Prediction Data Validation has started.
+2020-06-04,14:35:54,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:35:54,Loading of prediction Data has Started.
+2020-06-04,14:35:54,Data has been loadded succesfully
+2020-06-04,14:35:54,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:35:54,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,14:35:54,Data Validation for columns has Stared.
+2020-06-04,14:35:54,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,14:35:54,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,14:35:54,Columns are not valid in the Training Data.
+2020-06-04,14:35:54,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:54,Null Values Check has started.
+2020-06-04,14:35:54,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the Dataset has complete null values.
+2020-06-04,14:35:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:35:55,No column in the dataset has complete null values.
+2020-06-04,14:35:55,prediction data validation is complete.
+2020-06-04,14:35:55,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,14:42:06,Prediction Data has been loaded Successfully.
+2020-06-04,14:42:06,Prediction Data Validation has started.
+2020-06-04,14:42:06,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:42:06,Loading of prediction Data has Started.
+2020-06-04,14:42:06,Data has been loadded succesfully
+2020-06-04,14:42:06,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:42:06,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,14:42:06,Data Validation for columns has Stared.
+2020-06-04,14:42:06,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,14:42:06,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,14:42:06,Columns are not valid in the Training Data.
+2020-06-04,14:42:06,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:06,Null Values Check has started.
+2020-06-04,14:42:06,No column in the Dataset has complete null values.
+2020-06-04,14:42:06,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:06,No column in the Dataset has complete null values.
+2020-06-04,14:42:06,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:06,No column in the Dataset has complete null values.
+2020-06-04,14:42:06,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:06,No column in the Dataset has complete null values.
+2020-06-04,14:42:06,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:06,No column in the Dataset has complete null values.
+2020-06-04,14:42:06,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:06,No column in the Dataset has complete null values.
+2020-06-04,14:42:06,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:06,No column in the Dataset has complete null values.
+2020-06-04,14:42:06,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:06,No column in the Dataset has complete null values.
+2020-06-04,14:42:06,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:06,No column in the Dataset has complete null values.
+2020-06-04,14:42:06,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:06,No column in the Dataset has complete null values.
+2020-06-04,14:42:06,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:06,No column in the Dataset has complete null values.
+2020-06-04,14:42:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:07,No column in the Dataset has complete null values.
+2020-06-04,14:42:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:07,No column in the Dataset has complete null values.
+2020-06-04,14:42:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:07,No column in the Dataset has complete null values.
+2020-06-04,14:42:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:07,No column in the Dataset has complete null values.
+2020-06-04,14:42:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:07,No column in the Dataset has complete null values.
+2020-06-04,14:42:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:07,No column in the Dataset has complete null values.
+2020-06-04,14:42:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:07,No column in the Dataset has complete null values.
+2020-06-04,14:42:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:07,No column in the Dataset has complete null values.
+2020-06-04,14:42:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:07,No column in the Dataset has complete null values.
+2020-06-04,14:42:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:07,No column in the Dataset has complete null values.
+2020-06-04,14:42:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:07,No column in the Dataset has complete null values.
+2020-06-04,14:42:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:42:07,No column in the dataset has complete null values.
+2020-06-04,14:42:07,prediction data validation is complete.
+2020-06-04,14:42:07,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,14:52:55,Prediction Data has been loaded Successfully.
+2020-06-04,14:52:55,Prediction Data Validation has started.
+2020-06-04,14:52:55,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:52:55,Loading of prediction Data has Started.
+2020-06-04,14:52:55,Data has been loadded succesfully
+2020-06-04,14:52:55,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:52:55,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,14:52:55,Data Validation for columns has Stared.
+2020-06-04,14:52:55,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,14:52:55,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,14:52:55,Columns are not valid in the Training Data.
+2020-06-04,14:52:55,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,Null Values Check has started.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:55,No column in the Dataset has complete null values.
+2020-06-04,14:52:56,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:56,No column in the Dataset has complete null values.
+2020-06-04,14:52:56,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:56,No column in the Dataset has complete null values.
+2020-06-04,14:52:56,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:56,No column in the Dataset has complete null values.
+2020-06-04,14:52:56,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:56,No column in the Dataset has complete null values.
+2020-06-04,14:52:56,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:56,No column in the Dataset has complete null values.
+2020-06-04,14:52:56,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:56,No column in the Dataset has complete null values.
+2020-06-04,14:52:56,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:56,No column in the Dataset has complete null values.
+2020-06-04,14:52:56,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:56,No column in the Dataset has complete null values.
+2020-06-04,14:52:56,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:52:56,No column in the dataset has complete null values.
+2020-06-04,14:52:56,prediction data validation is complete.
+2020-06-04,14:52:56,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,14:59:17,Prediction Data has been loaded Successfully.
+2020-06-04,14:59:17,Prediction Data Validation has started.
+2020-06-04,14:59:17,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:59:17,Loading of prediction Data has Started.
+2020-06-04,14:59:17,Data has been loadded succesfully
+2020-06-04,14:59:17,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:59:17,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,14:59:17,Data Validation for columns has Stared.
+2020-06-04,14:59:17,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,14:59:17,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,14:59:17,Columns are not valid in the Training Data.
+2020-06-04,14:59:17,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,Null Values Check has started.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:17,No column in the Dataset has complete null values.
+2020-06-04,14:59:17,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:18,No column in the Dataset has complete null values.
+2020-06-04,14:59:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:18,No column in the Dataset has complete null values.
+2020-06-04,14:59:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:18,No column in the Dataset has complete null values.
+2020-06-04,14:59:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:18,No column in the Dataset has complete null values.
+2020-06-04,14:59:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:59:18,No column in the dataset has complete null values.
+2020-06-04,14:59:18,prediction data validation is complete.
+2020-06-04,14:59:18,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,15:00:54,Prediction Data has been loaded Successfully.
+2020-06-04,15:00:54,Prediction Data Validation has started.
+2020-06-04,15:00:54,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:00:54,Loading of prediction Data has Started.
+2020-06-04,15:00:54,Data has been loadded succesfully
+2020-06-04,15:00:54,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:00:54,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,15:00:54,Data Validation for columns has Stared.
+2020-06-04,15:00:54,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,15:00:54,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,15:00:54,Columns are not valid in the Training Data.
+2020-06-04,15:00:54,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:54,Null Values Check has started.
+2020-06-04,15:00:54,No column in the Dataset has complete null values.
+2020-06-04,15:00:54,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:54,No column in the Dataset has complete null values.
+2020-06-04,15:00:54,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:54,No column in the Dataset has complete null values.
+2020-06-04,15:00:54,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:54,No column in the Dataset has complete null values.
+2020-06-04,15:00:54,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:54,No column in the Dataset has complete null values.
+2020-06-04,15:00:54,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:54,No column in the Dataset has complete null values.
+2020-06-04,15:00:54,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:54,No column in the Dataset has complete null values.
+2020-06-04,15:00:54,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:54,No column in the Dataset has complete null values.
+2020-06-04,15:00:54,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:54,No column in the Dataset has complete null values.
+2020-06-04,15:00:54,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:54,No column in the Dataset has complete null values.
+2020-06-04,15:00:54,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:54,No column in the Dataset has complete null values.
+2020-06-04,15:00:54,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:54,No column in the Dataset has complete null values.
+2020-06-04,15:00:54,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:55,No column in the Dataset has complete null values.
+2020-06-04,15:00:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:55,No column in the Dataset has complete null values.
+2020-06-04,15:00:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:55,No column in the Dataset has complete null values.
+2020-06-04,15:00:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:55,No column in the Dataset has complete null values.
+2020-06-04,15:00:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:55,No column in the Dataset has complete null values.
+2020-06-04,15:00:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:55,No column in the Dataset has complete null values.
+2020-06-04,15:00:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:55,No column in the Dataset has complete null values.
+2020-06-04,15:00:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:55,No column in the Dataset has complete null values.
+2020-06-04,15:00:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:55,No column in the Dataset has complete null values.
+2020-06-04,15:00:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:55,No column in the Dataset has complete null values.
+2020-06-04,15:00:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:00:55,No column in the dataset has complete null values.
+2020-06-04,15:00:55,prediction data validation is complete.
+2020-06-04,15:00:55,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,15:01:07,Prediction Data has been loaded Successfully.
+2020-06-04,15:01:07,Prediction Data Validation has started.
+2020-06-04,15:01:07,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:01:07,Loading of prediction Data has Started.
+2020-06-04,15:01:07,Data has been loadded succesfully
+2020-06-04,15:01:07,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:01:07,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,15:01:07,Data Validation for columns has Stared.
+2020-06-04,15:01:07,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,15:01:07,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,15:01:07,Columns are not valid in the Training Data.
+2020-06-04,15:01:07,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,Null Values Check has started.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:07,No column in the Dataset has complete null values.
+2020-06-04,15:01:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:08,No column in the Dataset has complete null values.
+2020-06-04,15:01:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:01:08,No column in the dataset has complete null values.
+2020-06-04,15:01:08,prediction data validation is complete.
+2020-06-04,15:01:08,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,15:02:25,Prediction Data has been loaded Successfully.
+2020-06-04,15:02:25,Prediction Data Validation has started.
+2020-06-04,15:02:25,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:02:25,Loading of prediction Data has Started.
+2020-06-04,15:02:25,Data has been loadded succesfully
+2020-06-04,15:02:25,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:02:25,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,15:02:25,Data Validation for columns has Stared.
+2020-06-04,15:02:25,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,15:02:25,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,15:02:25,Columns are not valid in the Training Data.
+2020-06-04,15:02:25,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,Null Values Check has started.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:25,No column in the Dataset has complete null values.
+2020-06-04,15:02:26,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:26,No column in the Dataset has complete null values.
+2020-06-04,15:02:26,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:26,No column in the Dataset has complete null values.
+2020-06-04,15:02:26,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:26,No column in the Dataset has complete null values.
+2020-06-04,15:02:26,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:26,No column in the Dataset has complete null values.
+2020-06-04,15:02:26,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:02:26,No column in the dataset has complete null values.
+2020-06-04,15:02:26,prediction data validation is complete.
+2020-06-04,15:02:26,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,15:03:07,Prediction Data has been loaded Successfully.
+2020-06-04,15:03:07,Prediction Data Validation has started.
+2020-06-04,15:03:07,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:03:07,Loading of prediction Data has Started.
+2020-06-04,15:03:07,Data has been loadded succesfully
+2020-06-04,15:03:07,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:03:07,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,15:03:07,Data Validation for columns has Stared.
+2020-06-04,15:03:07,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,15:03:07,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,15:03:07,Columns are not valid in the Training Data.
+2020-06-04,15:03:07,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:07,Null Values Check has started.
+2020-06-04,15:03:07,No column in the Dataset has complete null values.
+2020-06-04,15:03:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:07,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the Dataset has complete null values.
+2020-06-04,15:03:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:08,No column in the dataset has complete null values.
+2020-06-04,15:03:08,prediction data validation is complete.
+2020-06-04,15:03:08,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,15:03:44,Prediction Data has been loaded Successfully.
+2020-06-04,15:03:44,Prediction Data Validation has started.
+2020-06-04,15:03:44,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:03:44,Loading of prediction Data has Started.
+2020-06-04,15:03:44,Data has been loadded succesfully
+2020-06-04,15:03:44,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:03:44,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,15:03:44,Data Validation for columns has Stared.
+2020-06-04,15:03:44,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,15:03:44,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,15:03:44,Columns are not valid in the Training Data.
+2020-06-04,15:03:44,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:44,Null Values Check has started.
+2020-06-04,15:03:44,No column in the Dataset has complete null values.
+2020-06-04,15:03:44,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:44,No column in the Dataset has complete null values.
+2020-06-04,15:03:44,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:44,No column in the Dataset has complete null values.
+2020-06-04,15:03:44,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:44,No column in the Dataset has complete null values.
+2020-06-04,15:03:44,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:44,No column in the Dataset has complete null values.
+2020-06-04,15:03:44,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:44,No column in the Dataset has complete null values.
+2020-06-04,15:03:44,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:44,No column in the Dataset has complete null values.
+2020-06-04,15:03:44,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:44,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the Dataset has complete null values.
+2020-06-04,15:03:45,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:03:45,No column in the dataset has complete null values.
+2020-06-04,15:03:45,prediction data validation is complete.
+2020-06-04,15:03:45,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,15:07:20,Prediction Data has been loaded Successfully.
+2020-06-04,15:07:20,Prediction Data Validation has started.
+2020-06-04,15:07:20,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:07:20,Loading of prediction Data has Started.
+2020-06-04,15:07:20,Data has been loadded succesfully
+2020-06-04,15:07:20,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:07:20,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,15:07:20,Data Validation for columns has Stared.
+2020-06-04,15:07:20,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,15:07:20,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,15:07:20,Columns are not valid in the Training Data.
+2020-06-04,15:07:20,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:20,Null Values Check has started.
+2020-06-04,15:07:20,No column in the Dataset has complete null values.
+2020-06-04,15:07:20,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:20,No column in the Dataset has complete null values.
+2020-06-04,15:07:20,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:20,No column in the Dataset has complete null values.
+2020-06-04,15:07:20,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:20,No column in the Dataset has complete null values.
+2020-06-04,15:07:20,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:20,No column in the Dataset has complete null values.
+2020-06-04,15:07:20,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:20,No column in the Dataset has complete null values.
+2020-06-04,15:07:20,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the Dataset has complete null values.
+2020-06-04,15:07:21,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:07:21,No column in the dataset has complete null values.
+2020-06-04,15:07:21,prediction data validation is complete.
+2020-06-04,15:07:21,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,15:20:37,Prediction Data has been loaded Successfully.
+2020-06-04,15:20:37,Prediction Data Validation has started.
+2020-06-04,15:20:37,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:20:37,Loading of prediction Data has Started.
+2020-06-04,15:20:37,Data has been loadded succesfully
+2020-06-04,15:20:37,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,15:20:37,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,15:20:37,Data Validation for columns has Stared.
+2020-06-04,15:20:38,Columns in the dataset are valid but the column data types are not valid.
+2020-06-04,15:20:38,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,15:20:38,Columns are not valid in the Training Data.
+2020-06-04,15:20:38,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,Null Values Check has started.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the Dataset has complete null values.
+2020-06-04,15:20:38,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,15:20:38,No column in the dataset has complete null values.
+2020-06-04,15:20:38,prediction data validation is complete.
+2020-06-04,15:20:38,Exited validate_predict_data method of predictionValidation class.
+2020-06-06,18:52:18,Prediction Data has been loaded Successfully.
+2020-06-06,18:52:18,Prediction Data Validation has started.
+2020-06-06,18:52:18,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-06,18:52:18,Loading of prediction Data has Started.
+2020-06-06,18:52:18,Data has been loadded succesfully
+2020-06-06,18:52:18,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-06,18:52:18,Entered column_validate module of validateRawPredictionData class.
+2020-06-06,18:52:18,Data Validation for columns has Stared.
+2020-06-06,18:52:18,Columns in the dataset are valid but the column data types are not valid.
+2020-06-06,18:52:18,Exited column_validate module of validateRawPredictionData class.
+2020-06-06,18:52:18,Columns are not valid in the Training Data.
+2020-06-06,18:52:18,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,Null Values Check has started.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the Dataset has complete null values.
+2020-06-06,18:52:18,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-06,18:52:18,No column in the dataset has complete null values.
+2020-06-06,18:52:18,prediction data validation is complete.
+2020-06-06,18:52:18,Exited validate_predict_data method of predictionValidation class.
+2020-06-07,14:07:24,Prediction Data has been loaded Successfully.
+2020-06-07,14:07:24,Prediction Data Validation has started.
+2020-06-07,14:07:24,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-07,14:07:24,Loading of prediction Data has Started.
+2020-06-07,14:07:24,Data has been loadded succesfully
+2020-06-07,14:07:24,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-07,14:07:24,Entered column_validate module of validateRawPredictionData class.
+2020-06-07,14:07:24,Data Validation for columns has Stared.
+2020-06-07,14:07:24,Columns in the data are not valid.
+2020-06-07,14:07:24,Exited column_validate module of validateRawPredictionData class.
+2020-06-07,14:07:24,Columns are not valid in the Training Data.
+2020-06-07,14:07:24,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,Null Values Check has started.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:24,No column in the Dataset has complete null values.
+2020-06-07,14:07:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:25,No column in the Dataset has complete null values.
+2020-06-07,14:07:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:25,No column in the Dataset has complete null values.
+2020-06-07,14:07:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-07,14:07:25,No column in the dataset has complete null values.
+2020-06-07,14:07:25,prediction data validation is complete.
+2020-06-07,14:07:25,Exited validate_predict_data method of predictionValidation class.
+2020-06-08,21:39:04,Prediction Data has been loaded Successfully.
+2020-06-08,21:39:04,Prediction Data Validation has started.
+2020-06-08,21:39:04,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-08,21:39:04,Loading of prediction Data has Started.
+2020-06-08,21:39:04,Data has been loadded succesfully
+2020-06-08,21:39:04,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-08,21:39:04,Entered column_validate module of validateRawPredictionData class.
+2020-06-08,21:39:04,Data Validation for columns has Stared.
+2020-06-08,21:39:04,Columns in the data are not valid.
+2020-06-08,21:39:04,Exited column_validate module of validateRawPredictionData class.
+2020-06-08,21:39:04,Columns are not valid in the Training Data.
+2020-06-08,21:39:04,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:39:04,Null Values Check has started.
+2020-06-08,21:39:04,No column in the Dataset has complete null values.
+2020-06-08,21:39:04,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:39:04,No column in the Dataset has complete null values.
+2020-06-08,21:39:04,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:39:04,No column in the Dataset has complete null values.
+2020-06-08,21:39:04,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:39:05,No column in the Dataset has complete null values.
+2020-06-08,21:39:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:39:05,No column in the Dataset has complete null values.
+2020-06-08,21:39:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:39:05,No column in the Dataset has complete null values.
+2020-06-08,21:39:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:39:05,No column in the Dataset has complete null values.
+2020-06-08,21:39:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:39:05,No column in the Dataset has complete null values.
+2020-06-08,21:39:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:39:05,No column in the Dataset has complete null values.
+2020-06-08,21:39:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:39:05,No column in the Dataset has complete null values.
+2020-06-08,21:39:05,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:39:05,No column in the dataset has complete null values.
+2020-06-08,21:39:05,prediction data validation is complete.
+2020-06-08,21:39:05,Exited validate_predict_data method of predictionValidation class.
+2020-06-08,21:41:13,Prediction Data has been loaded Successfully.
+2020-06-08,21:41:13,Prediction Data Validation has started.
+2020-06-08,21:41:13,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-08,21:41:13,Loading of prediction Data has Started.
+2020-06-08,21:41:13,Data has been loadded succesfully
+2020-06-08,21:41:13,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-08,21:41:13,Entered column_validate module of validateRawPredictionData class.
+2020-06-08,21:41:13,Data Validation for columns has Stared.
+2020-06-08,21:41:13,Columns in the data are not valid.
+2020-06-08,21:41:13,Exited column_validate module of validateRawPredictionData class.
+2020-06-08,21:41:13,Columns are not valid in the Training Data.
+2020-06-08,21:41:13,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:41:13,Null Values Check has started.
+2020-06-08,21:41:13,No column in the Dataset has complete null values.
+2020-06-08,21:41:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:41:13,No column in the Dataset has complete null values.
+2020-06-08,21:41:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:41:13,No column in the Dataset has complete null values.
+2020-06-08,21:41:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:41:13,No column in the Dataset has complete null values.
+2020-06-08,21:41:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:41:13,No column in the Dataset has complete null values.
+2020-06-08,21:41:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:41:13,No column in the Dataset has complete null values.
+2020-06-08,21:41:13,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:41:14,No column in the Dataset has complete null values.
+2020-06-08,21:41:14,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:41:14,No column in the Dataset has complete null values.
+2020-06-08,21:41:14,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:41:14,No column in the Dataset has complete null values.
+2020-06-08,21:41:14,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:41:14,No column in the Dataset has complete null values.
+2020-06-08,21:41:14,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:41:14,No column in the dataset has complete null values.
+2020-06-08,21:41:14,prediction data validation is complete.
+2020-06-08,21:41:14,Exited validate_predict_data method of predictionValidation class.
+2020-06-08,21:43:58,Prediction Data has been loaded Successfully.
+2020-06-08,21:43:58,Prediction Data Validation has started.
+2020-06-08,21:43:58,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-08,21:43:58,Loading of prediction Data has Started.
+2020-06-08,21:43:58,Data has been loadded succesfully
+2020-06-08,21:43:58,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-08,21:43:58,Entered column_validate module of validateRawPredictionData class.
+2020-06-08,21:43:58,Data Validation for columns has Stared.
+2020-06-08,21:43:58,Columns in the dataset are valid but the column data types are not valid.
+2020-06-08,21:43:59,Exited column_validate module of validateRawPredictionData class.
+2020-06-08,21:43:59,Columns are not valid in the Training Data.
+2020-06-08,21:43:59,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,Null Values Check has started.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:43:59,No column in the Dataset has complete null values.
+2020-06-08,21:43:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:44:00,No column in the dataset has complete null values.
+2020-06-08,21:44:00,prediction data validation is complete.
+2020-06-08,21:44:00,Exited validate_predict_data method of predictionValidation class.

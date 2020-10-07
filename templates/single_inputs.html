@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/single.css') }}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>Single Order Prediction</title>
+  </head>
+  <body id="single_body">
+
+   <nav class="navbar navbar-light bg-dark justify-content-between">
+      <a class="navbar-brand" style="color:#2ec4b6">Company Name</a>
+      <form class="form-inline">
+        <p class="lead">
+          <button type="button" onclick= "window.location.href='main.html'" class="btn btn-warning">Home</button>
+        </p>
+        <p class="lead">
+          <button type="button" onclick= "window.location.href='single.html'" class="btn btn-link" style="color:#f0f3bd;">Single Prediction</button>
+        </p>
+        <!-- <button class="btn btn-outline-success" type="button">Home</button>
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Single Prediction</button> -->
+      </form>
+    </nav>
+
+
+    <h1>Single Order Prediction</h1>
+    <br>
+    <p>Please fill the below details to view prediction results: </p>
+        <br>
+    <div class="container">
+      <form action="single_results_manual.html" method='post'>
+
+        <label for="sku"> Sku </label>
+        <input type="text" id="sku" name="sku" placeholder="Enter Sku..">
+
+        <label for="natinv">National Inv</label>
+        <input type="text" id="natinv" name="natinv" placeholder="Enter National Inv..">
+
+        <label for="lt">Lead Time</label>
+        <input type="text" id="lt" name="lt" placeholder="Enter Lead Time..">
+
+        <label for="itq">In Transit Quantity</label>
+        <input type="text" id="itq" name="itq" placeholder="Enter In Transit Quantity...">
+
+        <label for="f3m">Forecast 3 Months</label>
+        <input type="text" id="f3m" name="f3m" placeholder="Enter Forecast for 3 Months...">
+
+        <label for="f6m">Forecast 6 Months</label>
+        <input type="text" id="f6m" name="f6m" placeholder="Enter Forecast for 6 Months..">
+
+        <label for="f9m">Forecast 9 Months</label>
+        <input type="text" id="f9m" name="f9m" placeholder="Enter Forecast for 9 Months..">
+
+        <label for="s1m">Sales 1 Month</label>
+        <input type="text" id="s1m" name="s1m" placeholder="Enter Sales for 1 Month..">
+
+        <label for="s3m">Sales 3 Months</label>
+        <input type="text" id="s3m" name="s3m" placeholder="Enter Sales for 3 Months..">
+
+        <label for="s6m">Sales 6 Months</label>
+        <input type="text" id="s6m" name="s6m" placeholder="Enter Sales for 6 Months..">
+
+        <label for="s9m">Sales 9 Months</label>
+        <input type="text" id="s9m" name="s9m" placeholder="Enter Sales for 9 Month..">
+
+        <label for="min_bank">Min Bank</label>
+        <input type="text" id="min_bank" name="min_bank" placeholder="Enter Min Bank..">
+
+        <label for="potential_issue">Potential Issue</label>
+        <input type="text" id="potential_issue" name="potential_issue" placeholder="Enter Potential Issue..">
+
+        <label for="pieces_past_due">Pieces Past Due</label>
+        <input type="text" id="pieces_past_due" name="pieces_past_due" placeholder="Enter Pieces Past Due..">
+
+        <label for="perf_6_month_avg">Performance 6 Months Average</label>
+        <input type="text" id="perf_6_month_avg" name="perf_6_month_avg" placeholder="Enter Performance for 6 Months Average..">
+
+        <label for="perf_12_month_avg">Performance 12 Months Average</label>
+        <input type="text" id="perf_12_month_avg" name="perf_12_month_avg" placeholder="Enter Performance for 12 Months Average..">
+
+        <label for="local_bo_qty">Local bo Quantity</label>
+        <input type="text" id="local_bo_qty" name="local_bo_qty" placeholder="Enter Local bo Quantity..">
+
+        <label for="deck_risk">Deck Risk</label>
+        <input type="text" id="deck_risk" name="deck_risk" placeholder="Enter Deck Risk..">
+
+        <label for="oe_constraint">OE Constraint</label>
+        <input type="text" id="oe_constraint" name="oe_constraint" placeholder="Enter OE Constraint..">
+
+        <label for="ppap_risk">PPAP Risk</label>
+        <input type="text" id="ppap_risk" name="ppap_risk" placeholder="Enter PPAP Risk..">
+
+        <label for="stop_auto_buy">Stop Auto Buy</label>
+        <input type="text" id="stop_auto_buy" name="stop_auto_buy" placeholder="Enter Stop Auto Buy..">
+
+        <label for="rev_stop">Rev Stop</label>
+        <input type="text" id="rev_stop" name="rev_stop" placeholder="Enter Rev Stop..">
+
+<!--        <p>the below choose option is for other predictions</p>-->
+
+<!--        <label for="country">Country</label>-->
+<!--        <select id="country" name="country">-->
+<!--          <option value="australia">Australia</option>-->
+<!--          <option value="canada">Canada</option>-->
+<!--          <option value="usa">USA</option>-->
+<!--        </select>-->
+
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+
+  </body>
+</html>

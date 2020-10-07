@@ -1,0 +1,115 @@
+body{
+  background-color: #e5e5e5;
+}
+
+#body_bulk{
+  background-color: white;
+}
+.jumbotron{
+  background-color: #2d3142;
+}
+
+.textinjumbo{
+  color: white;
+}
+
+.display-3{
+  color: #2c4268;
+}
+
+.lead{
+    margin-right: 20px;
+
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+#single-page-header{
+  background-attachment: fixed !important;
+  background-image: url("images/image3.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+  color: #ffffff;
+  display: inline;
+  float: left;
+  width: 100%;
+}
+
+.overlay{
+  background-color: rgba(0,0,0,0.6);
+  padding: 90px 0;
+  float: left;
+  width: 100%;
+}
+
+.title-area{
+  margin-top: 5%;
+  color: #007bba;
+}
+
+
+#myTable {
+  border-collapse: collapse;
+  width: 80%;
+  border: 1px solid #14213d;
+  font-size: 18px;
+  margin-left: 150px;
+  margin-bottom: 20px;
+  color: #23233bs;
+}
+
+#myTable th, #myTable td {
+  text-align: center;
+  padding: 20px;
+
+}
+
+#myTable tr {
+  border-bottom: 1px solid #14213d;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #84a59d;
+}
+
+
+.filterDiv {
+  display: inline;
+  float: left;
+  position: relative;
+  width: 100%;
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.container2 {
+  position: relative;
+  text-align: center;
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+/* Style the buttons */
+.btn2 {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+.btn2:hover {
+  background-color: #ddd;
+}
+
+.btn2.active {
+  background-color: #666;
+  color: white;
+}

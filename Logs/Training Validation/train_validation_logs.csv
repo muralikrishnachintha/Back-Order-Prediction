@@ -1,0 +1,76 @@
+date,time,logs
+2020-06-03,10:57:32,Entered validate_train class of trainValidation
+2020-06-03,10:57:32,Training Data Validation has started.
+2020-06-03,10:57:32,Data Loading has initiated.
+2020-06-03,10:57:32,Data has been loaded succesfully
+2020-06-03,10:57:32,Exiting the load_data method of trainingDataLoader class.
+2020-06-03,10:57:32,Data Validation has Stared.
+2020-06-03,10:57:32,Columns in the dataset are valid but the column data types are not valid.
+2020-06-03,10:57:32,Exited column_validate module of validateRawTrainingData class.
+2020-06-03,10:57:32,Entered validateRawData
+2020-06-03,10:57:32,Columns are not valid in the Training Data.
+2020-06-03,10:57:32,Null Values Check has started.
+2020-06-03,10:57:32,An Exception has occured in entire_column_null_value_check of validateRawTrainingData class. The Exception is 'validate_raw_data' object has no attribute 'logger'
+2020-06-03,10:57:32,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-03,10:57:32,No column in the dataset has complete null values.
+2020-06-03,10:57:32,Exiting validate_train of trainValidation class.
+2020-06-03,10:59:48,Entered validate_train class of trainValidation
+2020-06-03,10:59:48,Training Data Validation has started.
+2020-06-03,10:59:48,Data Loading has initiated.
+2020-06-03,10:59:49,Data has been loaded succesfully
+2020-06-03,10:59:49,Exiting the load_data method of trainingDataLoader class.
+2020-06-03,10:59:49,Data Validation has Stared.
+2020-06-03,10:59:49,Columns in the dataset are valid but the column data types are not valid.
+2020-06-03,10:59:49,Exited column_validate module of validateRawTrainingData class.
+2020-06-03,10:59:49,Entered validateRawData
+2020-06-03,10:59:49,Columns are not valid in the Training Data.
+2020-06-03,10:59:49,Null Values Check has started.
+2020-06-03,10:59:49,An Exception has occured in entire_column_null_value_check of validateRawTrainingData class. The Exception is 'validate_raw_data' object has no attribute 'logger'
+2020-06-03,10:59:49,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-03,10:59:49,No column in the dataset has complete null values.
+2020-06-03,10:59:49,Exiting validate_train of trainValidation class.
+2020-06-03,11:02:35,Entered validate_train class of trainValidation
+2020-06-03,11:02:35,Training Data Validation has started.
+2020-06-03,11:02:35,Data Loading has initiated.
+2020-06-03,11:02:35,Data has been loaded succesfully
+2020-06-03,11:02:35,Exiting the load_data method of trainingDataLoader class.
+2020-06-03,11:02:35,Data Validation has Stared.
+2020-06-03,11:02:35,Columns in the dataset are valid but the column data types are not valid.
+2020-06-03,11:02:35,Exited column_validate module of validateRawTrainingData class.
+2020-06-03,11:02:35,Entered validateRawData
+2020-06-03,11:02:35,Columns are not valid in the Training Data.
+2020-06-03,11:02:35,Null Values Check has started.
+2020-06-03,11:02:35,An Exception has occured in entire_column_null_value_check of validateRawTrainingData class. The Exception is 'validate_raw_data' object has no attribute 'logger'
+2020-06-03,11:02:35,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-03,11:02:35,No column in the dataset has complete null values.
+2020-06-03,11:02:35,Exiting validate_train of trainValidation class.
+2020-06-03,11:06:34,Entered validate_train class of trainValidation
+2020-06-03,11:06:34,Training Data Validation has started.
+2020-06-03,11:06:34,Data Loading has initiated.
+2020-06-03,11:06:34,Data has been loaded succesfully
+2020-06-03,11:06:34,Exiting the load_data method of trainingDataLoader class.
+2020-06-03,11:06:34,Data Validation has Stared.
+2020-06-03,11:06:34,"An Exception has occured in column_validate of validateRawTrainingData class. The Exception is The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()."
+2020-06-03,11:06:34,Exting column_validate of validateRawTrainingData class.
+2020-06-03,11:06:34,Entered validateRawData
+2020-06-03,11:06:34,Columns are not valid in the Training Data.
+2020-06-03,11:06:34,Null Values Check has started.
+2020-06-03,11:06:34,An Exception has occured in entire_column_null_value_check of validateRawTrainingData class. The Exception is 'validate_raw_data' object has no attribute 'logger'
+2020-06-03,11:06:34,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-03,11:06:34,No column in the dataset has complete null values.
+2020-06-03,11:06:34,Exiting validate_train of trainValidation class.
+2020-06-03,11:17:02,Entered validate_train class of trainValidation
+2020-06-03,11:17:02,Training Data Validation has started.
+2020-06-03,11:17:02,Data Loading has initiated.
+2020-06-03,11:17:07,Data has been loaded succesfully
+2020-06-03,11:17:07,Exiting the load_data method of trainingDataLoader class.
+2020-06-03,11:17:07,Data Validation has Stared.
+2020-06-03,11:17:07,"An Exception has occured in column_validate of validateRawTrainingData class. The Exception is The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all()."
+2020-06-03,11:17:07,Exting column_validate of validateRawTrainingData class.
+2020-06-03,11:17:07,Entered validateRawData
+2020-06-03,11:17:07,Columns are not valid in the Training Data.
+2020-06-03,11:17:07,Null Values Check has started.
+2020-06-03,11:17:07,An Exception has occured in entire_column_null_value_check of validateRawTrainingData class. The Exception is 'validate_raw_data' object has no attribute 'logger'
+2020-06-03,11:17:07,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-03,11:17:07,No column in the dataset has complete null values.
+2020-06-03,11:17:07,Exiting validate_train of trainValidation class.
